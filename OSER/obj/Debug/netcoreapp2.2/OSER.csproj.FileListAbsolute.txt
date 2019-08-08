@@ -1,0 +1,14 @@
+C:\Work\Okta\Server\OSER\OSER\bin\Debug\netcoreapp2.2\OSER.deps.json
+C:\Work\Okta\Server\OSER\OSER\bin\Debug\netcoreapp2.2\OSER.runtimeconfig.json
+C:\Work\Okta\Server\OSER\OSER\bin\Debug\netcoreapp2.2\OSER.runtimeconfig.dev.json
+C:\Work\Okta\Server\OSER\OSER\bin\Debug\netcoreapp2.2\OSER.dll
+C:\Work\Okta\Server\OSER\OSER\bin\Debug\netcoreapp2.2\OSER.pdb
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.csprojAssemblyReference.cache
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.csproj.CoreCompileInputs.cache
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.RazorAssemblyInfo.cache
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.RazorAssemblyInfo.cs
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.AssemblyInfoInputs.cache
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.AssemblyInfo.cs
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.RazorTargetAssemblyInfo.cache
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.dll
+C:\Work\Okta\Server\OSER\OSER\obj\Debug\netcoreapp2.2\OSER.pdb
